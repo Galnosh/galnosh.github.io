@@ -1,0 +1,79 @@
+body {
+    background-image: linear-gradient(to bottom, #caf7f3, #8bf7ef);
+}
+
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: #c6f5f2;
+    border-bottom: 2px solid black;
+    width: 100%;
+    z-index: 1;
+}
+
+#logo_horizontal_menu {
+    width: 100px;
+    height: 50px;
+}
+
+#logo_vertical_menu {
+    width: 30px;
+    height: 50px;
+}
+
+#links_menu {
+    color: black;
+    font-size: 30px;
+    font-family: 'Zilla Slab', serif;
+}
+
+#tabela {
+    border-spacing: 20px;
+    border-collapse: separate;
+    font-size: 20px;
+    font-family: 'Zilla Slab', serif;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    color: black;
+}
+
+li {
+    margin: 10px;
+}
+
+iframe {
+    border: 2px black solid;
+}
+
+#spacex_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
+
+#texto {
+    font-family: 'Zilla Slab', serif;
+    font-size: 25px !important;
+    text-align: justify !important;
+}
+
+
+
+#titulo {
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+#subtitulo {
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
